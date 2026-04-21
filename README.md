@@ -1,7 +1,5 @@
 # 🧠 Parkinson’s Disease Prediction using Machine Learning
 
-![Project Preview](image.png)
-
 ## Overview
 
 This project uses machine learning to predict Parkinson’s disease based on biomedical voice measurements. Parkinson’s is a progressive neurological disorder that affects movement and speech, making early detection challenging. By analyzing vocal features, this project demonstrates how data-driven approaches can assist in non-invasive diagnosis.
