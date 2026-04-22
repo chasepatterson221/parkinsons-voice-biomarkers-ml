@@ -8,7 +8,7 @@ This project uses machine learning to predict Parkinson’s disease based on bio
 
 -> https://cpatte77.github.io/DataMining-Analyses/Parkinson's_Disease_Project
 
-> View the full interactive notebook with visualizations, model outputs, and analysis.
+> See full interactive notebook with visualizations, model outputs, and analysis.
 
 ---
 
